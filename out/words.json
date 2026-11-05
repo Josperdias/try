@@ -1,6 +1,6 @@
 {
  "fachada_0": {
-  "text": "Arrumando a gaveta, a Dona Cida encontrou a carteirinha de vacinação da Mel, sua cachorrinha e companheira de todas as horas.",
+  "text": "Arrumando a gaveta, a Dona Cida encontrou a carteirinha de vacinação da Méll, sua cachorrinha e companheira de todas as horas.",
   "words": [
    {
     "w": "Arrumando",
@@ -63,7 +63,7 @@
     "d": 0.12
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 3.836,
     "d": 0.264
    },
@@ -165,7 +165,7 @@
   ]
  },
  "fachada_2": {
-  "text": "Para tirar a dúvida, ela levou a Mel e a carteirinha até a Vet Smart.",
+  "text": "Para tirar a dúvida, ela levou a Méll e a carteirinha até a Vet Smart.",
   "words": [
    {
     "w": "Para",
@@ -203,7 +203,7 @@
     "d": 0.06
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 1.829,
     "d": 0.337
    },
@@ -245,7 +245,7 @@
   ]
  },
  "consulta_0": {
-  "text": "Lá, a Mel foi recebida com carinho, do jeitinho que ela gosta.",
+  "text": "Lá, a Méll foi recebida com carinho, do jeitinho que ela gosta.",
   "words": [
    {
     "w": "Lá",
@@ -258,7 +258,7 @@
     "d": 0.048
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 0.531,
     "d": 0.204
    },
@@ -715,7 +715,7 @@
   ]
  },
  "vacina_0": {
-  "text": "Com muito carinho, a Mel tomou a vacina e ainda ganhou um petisco de recompensa.",
+  "text": "Com muito carinho, a Méll tomou a vacina e ainda ganhou um petisco de recompensa.",
   "words": [
    {
     "w": "Com",
@@ -738,7 +738,7 @@
     "d": 0.06
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 1.168,
     "d": 0.192
    },
@@ -940,7 +940,7 @@
   ]
  },
  "vacina_3": {
-  "text": "Por isso, a veterinária montou o calendário da Mel e deixou a próxima data anotada.",
+  "text": "Por isso, a veterinária montou o calendário da Méll e deixou a próxima data anotada.",
   "words": [
    {
     "w": "Por",
@@ -983,7 +983,7 @@
     "d": 0.12
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 2.466,
     "d": 0.349
    },
@@ -1020,7 +1020,7 @@
   ]
  },
  "cantinho_0": {
-  "text": "Agora a Dona Cida não tem mais dúvida: sabe exatamente quando é a próxima vacina da Mel.",
+  "text": "Agora a Dona Cida não tem mais dúvida: sabe exatamente quando é a próxima vacina da Méll.",
   "words": [
    {
     "w": "Agora",
@@ -1103,14 +1103,14 @@
     "d": 0.108
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 4.521,
     "d": 0.288
    }
   ]
  },
  "cantinho_1": {
-  "text": "E a Mel? Segue protegida e cheia de carinho.",
+  "text": "E a Méll? Segue protegida e cheia de carinho.",
   "words": [
    {
     "w": "E",
@@ -1123,7 +1123,7 @@
     "d": 0.084
    },
    {
-    "w": "Mel",
+    "w": "Méll",
     "t": 0.302,
     "d": 0.337
    },
@@ -1311,231 +1311,6 @@
     "w": "WhatsApp",
     "t": 0.771,
     "d": 0.661
-   }
-  ]
- },
- "teste_mel_1": {
-  "text": "Opção 1. A Mel foi recebida com carinho.",
-  "words": [
-   {
-    "w": "Opção",
-    "t": 0.098,
-    "d": 0.505
-   },
-   {
-    "w": "1",
-    "t": 0.615,
-    "d": 0.228
-   },
-   {
-    "w": "A",
-    "t": 1.094,
-    "d": 0.096
-   },
-   {
-    "w": "Mel",
-    "t": 1.202,
-    "d": 0.204
-   },
-   {
-    "w": "foi",
-    "t": 1.418,
-    "d": 0.132
-   },
-   {
-    "w": "recebida",
-    "t": 1.562,
-    "d": 0.529
-   },
-   {
-    "w": "com",
-    "t": 2.103,
-    "d": 0.144
-   },
-   {
-    "w": "carinho",
-    "t": 2.26,
-    "d": 0.469
-   }
-  ]
- },
- "teste_mel_2": {
-  "text": "Opção 2. A Mél foi recebida com carinho.",
-  "words": [
-   {
-    "w": "Opção",
-    "t": 0.098,
-    "d": 0.469
-   },
-   {
-    "w": "2",
-    "t": 0.579,
-    "d": 0.445
-   },
-   {
-    "w": "A",
-    "t": 1.274,
-    "d": 0.096
-   },
-   {
-    "w": "Mél",
-    "t": 1.382,
-    "d": 0.204
-   },
-   {
-    "w": "foi",
-    "t": 1.599,
-    "d": 0.132
-   },
-   {
-    "w": "recebida",
-    "t": 1.743,
-    "d": 0.529
-   },
-   {
-    "w": "com",
-    "t": 2.284,
-    "d": 0.144
-   },
-   {
-    "w": "carinho",
-    "t": 2.44,
-    "d": 0.469
-   }
-  ]
- },
- "teste_mel_3": {
-  "text": "Opção 3. A Méu foi recebida com carinho.",
-  "words": [
-   {
-    "w": "Opção",
-    "t": 0.098,
-    "d": 0.457
-   },
-   {
-    "w": "3",
-    "t": 0.567,
-    "d": 0.469
-   },
-   {
-    "w": "A",
-    "t": 1.286,
-    "d": 0.096
-   },
-   {
-    "w": "Méu",
-    "t": 1.394,
-    "d": 0.204
-   },
-   {
-    "w": "foi",
-    "t": 1.611,
-    "d": 0.132
-   },
-   {
-    "w": "recebida",
-    "t": 1.755,
-    "d": 0.529
-   },
-   {
-    "w": "com",
-    "t": 2.296,
-    "d": 0.144
-   },
-   {
-    "w": "carinho",
-    "t": 2.452,
-    "d": 0.469
-   }
-  ]
- },
- "teste_mel_4": {
-  "text": "Opção 4. A Mell foi recebida com carinho.",
-  "words": [
-   {
-    "w": "Opção",
-    "t": 0.098,
-    "d": 0.433
-   },
-   {
-    "w": "4",
-    "t": 0.543,
-    "d": 0.493
-   },
-   {
-    "w": "A",
-    "t": 1.286,
-    "d": 0.096
-   },
-   {
-    "w": "Mell",
-    "t": 1.394,
-    "d": 0.204
-   },
-   {
-    "w": "foi",
-    "t": 1.611,
-    "d": 0.132
-   },
-   {
-    "w": "recebida",
-    "t": 1.755,
-    "d": 0.529
-   },
-   {
-    "w": "com",
-    "t": 2.296,
-    "d": 0.144
-   },
-   {
-    "w": "carinho",
-    "t": 2.452,
-    "d": 0.469
-   }
-  ]
- },
- "teste_mel_5": {
-  "text": "Opção 5. A Méll foi recebida com carinho.",
-  "words": [
-   {
-    "w": "Opção",
-    "t": 0.098,
-    "d": 0.433
-   },
-   {
-    "w": "5",
-    "t": 0.543,
-    "d": 0.493
-   },
-   {
-    "w": "A",
-    "t": 1.286,
-    "d": 0.096
-   },
-   {
-    "w": "Méll",
-    "t": 1.394,
-    "d": 0.204
-   },
-   {
-    "w": "foi",
-    "t": 1.611,
-    "d": 0.132
-   },
-   {
-    "w": "recebida",
-    "t": 1.755,
-    "d": 0.529
-   },
-   {
-    "w": "com",
-    "t": 2.296,
-    "d": 0.144
-   },
-   {
-    "w": "carinho",
-    "t": 2.452,
-    "d": 0.469
    }
   ]
  }
